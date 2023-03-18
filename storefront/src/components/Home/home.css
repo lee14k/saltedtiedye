@@ -1,0 +1,7 @@
+.hero {
+
+    background: rgba(0,0,0,.5);
+    color:white;
+    height:1000px;
+    background-image: url('../../../public/SaltedOceanDyes_WhiteTexture_LowRes3.png');
+}
